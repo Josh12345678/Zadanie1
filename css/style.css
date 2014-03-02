@@ -1,3 +1,8 @@
-footer.navbar.navbar-inverse {
-	margin:300px 0px 0px 0px;
+div.panel-heading {
+	width:100%;
+	margin:0px;
+}
+
+small.text-muted {
+		
 }
